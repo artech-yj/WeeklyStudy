@@ -1,6 +1,7 @@
 # 이미지 모자이크
 
-<img src="/Users/youngjunyoon/Desktop/Github/img/스크린샷 2020-02-02 오후 11.00.07.png" style="zoom:200%;" />
+<img width="830" alt="스크린샷 2020-02-02 오후 11 00 07" src="https://user-images.githubusercontent.com/60219074/73648842-c79fea00-46c1-11ea-958d-2b423706e00c.png">
+
 
 ## 과정
 
