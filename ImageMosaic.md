@@ -2,7 +2,7 @@
 
 # 이미지 모자이크
 
-<img width="830" alt="스크린샷 2020-02-02 오후 11 00 07" src="https://user-images.githubusercontent.com/60219074/73648842-c79fea00-46c1-11ea-958d-2b423706e00c.png">
+<img width="830" alt="스크린샷 2020-02-02 오후 11 00 07" src="https://user-images.githubusercontent.com/60219074/73668455-38a6c800-46e9-11ea-884e-0f4777b4b530.png">
 
 
 ## 과정
@@ -93,7 +93,7 @@ plt.imshow(img, cmap = 'gray')
 
 
 
-![png](output_8_2.png)
+![output_8_2](https://user-images.githubusercontent.com/60219074/73668456-393f5e80-46e9-11ea-8b19-b2765b4b8ee2.png)
 
 
 
@@ -193,7 +193,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/60219074/73668458-393f5e80-46e9-11ea-8291-d040f975bce7.png)
 
 
 
@@ -217,7 +217,7 @@ for i in range(80):
 ```
 
 
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/60219074/73668459-393f5e80-46e9-11ea-8376-61b116fb9ce0.png)
 
 
 
@@ -237,7 +237,7 @@ plt.show
 
 
 
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/60219074/73668460-39d7f500-46e9-11ea-89b9-8993c5fd40a8.png)
 
 
 
@@ -269,7 +269,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![output_22_0](https://user-images.githubusercontent.com/60219074/73668464-39d7f500-46e9-11ea-8ccc-52a54cb45ac7.png)
 
 
 
@@ -344,5 +344,5 @@ _ = cv2.imwrite('result/%s_bw.jpg', img_out)
 ```
 
 
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/60219074/73668466-39d7f500-46e9-11ea-9dc5-e51014c879f5.png)
 
